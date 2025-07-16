@@ -4,8 +4,7 @@
 
 A modern and feature-rich to-do list application built with vanilla HTML, CSS, and JavaScript. This project goes beyond a simple list, offering a beautiful user interface, smooth animations, and an enhanced user experience with interactive modals.
 
-**(Optional: You can add a GIF or screenshot of your application here to showcase the UI)**
-`![Demo GIF of the To-Do App in action]`
+![Demo GIF of the To-Do App in action](./todo-demo.gif)
 
 ## ✨ Features
 
